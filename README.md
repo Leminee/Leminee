@@ -1,10 +1,12 @@
 ### Welcome! Willkommen! Bienvenue! 
 
-Hello world, I am Lemine, i am currently pursuing a B.S.c in Computer science here in Germany. My interest include programming, software/web development and web application security. 
+Hello world! I am Lemine, I am currently pursuing a B.S.c in computer science here in Germany. My interest include programming, software/web development and web application security.
 
-I use OS X as main operating system and an Debian-based Linux Distribution as the second operating system.
+I use OS X as my main operating system and a Debian-based Linux Distribution as the second operating system.
 
-The languages I speak include: German, French and English
+The languages I speak include: German, French and English.
+
+Most used Language
  
  <hr>
 
