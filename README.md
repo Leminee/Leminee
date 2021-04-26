@@ -5,10 +5,6 @@ Hello world, I am Lemine, i am currently pursuing a B.S.c in Computer science he
 I use OS X as main operating system and an Debian-based Linux Distribution as the second operating system.
 
 The languages I speak include: German, French and English
-
- <hr> 
- 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leminee&layout=compact"> 
  
  <hr>
 
