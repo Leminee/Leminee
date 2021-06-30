@@ -20,7 +20,7 @@ Most Used Language: <em>Java</em>
               <img height="65px" src="https://cdn.svgporn.com/logos/java.svg">
             </td> 
               <td width="25%" align="center">
-                <span>PHP</span><br><br><br>
+                <span>Javascript</span><br><br><br>
                 <img height="58px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png">
               </td>  
               <td width="25%" align="center">
