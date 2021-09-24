@@ -48,7 +48,7 @@ The languages I speak include: German, French and English.
           </td>
           <td width="25%" align="center">
             <span>Github</span><br><br><br>
-            <img height="05px" src="https://cdn.svgporn.com/logos/github-octocat.svg">
+            <img height="45px" src="https://cdn.svgporn.com/logos/github-octocat.svg">
           </td>  
            <td width="25%" align="center">
             <span>Docker</span><br><br><br>
