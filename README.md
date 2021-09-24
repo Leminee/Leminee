@@ -8,7 +8,7 @@ The languages I speak include: German, French and English.
  
  <hr>
 
-<h3>Favorite tools</h3> 
+<h3>Tools and Languages</h3> 
  
  
 <table>
@@ -27,7 +27,7 @@ The languages I speak include: German, French and English.
               </td> 
               <td width="25%" align="center">
                 <span>Git</span><br><br><br>
-                <img height="45px" src="https://cdn.discordapp.com/attachments/819694809765380146/835671441012949052/git.png">
+                <img height="48px" src="https://cdn.discordapp.com/attachments/819694809765380146/835671441012949052/git.png">
               </td>  
              <td width="25%" align="center">
                 <span>CLI</span><br><br><br>
@@ -48,7 +48,7 @@ The languages I speak include: German, French and English.
           </td>
           <td width="25%" align="center">
             <span>Github</span><br><br><br>
-            <img height="45px" src="https://cdn.svgporn.com/logos/github-octocat.svg">
+            <img height="48px" src="https://cdn.svgporn.com/logos/github-octocat.svg">
           </td>  
            <td width="25%" align="center">
             <span>Docker</span><br><br><br>
