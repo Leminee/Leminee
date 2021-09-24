@@ -15,44 +15,44 @@ The languages I speak include: German, French and English.
           <tr valign="top">
             <td width="25%" align="center">
               <span>Java</span><br><br><br>
-              <img height="65px" src="https://cdn.svgporn.com/logos/java.svg">
+              <img height="60px" src="https://cdn.svgporn.com/logos/java.svg">
             </td> 
               <td width="25%" align="center">
                 <span>Javascript</span><br><br><br>
-                <img height="58px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png">
+                <img height="60px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png">
               </td>  
               <td width="25%" align="center">
                 <span>Python</span><br><br><br>
-                <img height="65px" src="https://cdn.svgporn.com/logos/python.svg">
+                <img height="60px" src="https://cdn.svgporn.com/logos/python.svg">
               </td> 
               <td width="25%" align="center">
                 <span>Git</span><br><br><br>
-                <img height="48px" src="https://cdn.discordapp.com/attachments/819694809765380146/835671441012949052/git.png">
+                <img height="45px" src="https://cdn.discordapp.com/attachments/819694809765380146/835671441012949052/git.png">
               </td>  
              <td width="25%" align="center">
                 <span>CLI</span><br><br><br>
-                <img height="48px" src="https://picocli.info/man/2.x/images/cli.jpg">
+                <img height="45px" src="https://picocli.info/man/2.x/images/cli.jpg">
               </td> 
           <tr valign="mid">
           <td width="25%" align="center">
             <span>IntelliJ</span><br><br><br>
-            <img height="65px" src="https://cdn.svgporn.com/logos/intellij-idea.svg">
+            <img height="60px" src="https://cdn.svgporn.com/logos/intellij-idea.svg">
           </td> 
           <td width="25%" align="center">
             <span>VSCode</span><br><br><br>
-            <img height="65px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+            <img height="60px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
           </td> 
           <td width="25%" align="center">
             <span>PyCharm</span><br><br><br>
-            <img height="65px" src="https://cdn.svgporn.com/logos/pycharm.svg">
+            <img height="60px" src="https://cdn.svgporn.com/logos/pycharm.svg">
           </td>
           <td width="25%" align="center">
             <span>Github</span><br><br><br>
-            <img height="65px" src="https://cdn.svgporn.com/logos/github-octocat.svg">
+            <img height="05px" src="https://cdn.svgporn.com/logos/github-octocat.svg">
           </td>  
            <td width="25%" align="center">
             <span>Docker</span><br><br><br>
-            <img height="65px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png">
+            <img height="60px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png">
           </td> 
       </table> 
       <hr>  
