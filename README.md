@@ -32,8 +32,8 @@ Most Used Language: <em>Java</em>
                 <img height="48px" src="https://cdn.discordapp.com/attachments/819694809765380146/835671441012949052/git.png">
               </td>  
              <td width="25%" align="center">
-                <span>Git</span><br><br><br>
-                <img height="48px" src="https://picocli.info/man/2.x/images/cli.jpg.png">
+                <span>CLI</span><br><br><br>
+                <img height="48px" src="https://picocli.info/man/2.x/images/cli.jpg">
               </td> 
           <tr valign="mid">
           <td width="25%" align="center">
@@ -53,7 +53,7 @@ Most Used Language: <em>Java</em>
             <img height="65px" src="https://cdn.svgporn.com/logos/github-octocat.svg">
           </td>  
            <td width="25%" align="center">
-            <span>Github</span><br><br><br>
+            <span>Docker</span><br><br><br>
             <img height="65px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png">
           </td> 
       </table> 
