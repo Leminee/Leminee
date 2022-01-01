@@ -1,14 +1,12 @@
 ### Welcome! Willkommen! Bienvenue! 
 
-Hello world! I am Lemine, I am currently pursuing a B.S.c in computer science in Germany. My interest include software/web development and web application security.
-
-I use OS X as my main operating system and a Debian-based Linux Distribution as the second operating system.
-
-The languages I speak include: German, French and English.
+Hello world! I am Lemine, I am currently pursuing a B.S.c in computer science in Germany. My interest include web development and web application security.
  
- <hr>
+The languages I speak include: English, German and French.
 
-<h3>Tools and Languages</h3> 
+<hr>
+
+<h3>Favorite Tools and Languages</h3> 
  
  
 <table>
@@ -16,11 +14,7 @@ The languages I speak include: German, French and English.
             <td width="25%" align="center">
               <span>Java</span><br><br><br>
               <img height="60px" src="https://cdn.svgporn.com/logos/java.svg">
-            </td> 
-              <td width="25%" align="center">
-                <span>Javascript</span><br><br><br>
-                <img height="60px" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png">
-              </td>  
+            </td>  
               <td width="25%" align="center">
                 <span>Git</span><br><br><br>
                 <img height="48px" src="https://cdn.discordapp.com/attachments/819694809765380146/835671441012949052/git.png">
@@ -33,10 +27,6 @@ The languages I speak include: German, French and English.
           <td width="25%" align="center">
             <span>IntelliJ</span><br><br><br>
             <img height="60px" src="https://cdn.svgporn.com/logos/intellij-idea.svg">
-          </td> 
-          <td width="25%" align="center">
-            <span>VSCode</span><br><br><br>
-            <img height="60px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
           </td> 
           <td width="25%" align="center">
             <span>Github</span><br><br><br>
@@ -52,4 +42,4 @@ The languages I speak include: German, French and English.
 
 <a href="https://discord.gg/4YwafTCKGh"><img src="https://img.shields.io/discord/779105997792083969?label=GoodQuestion%20Discord&logo=Discord&logoColor=%23ffffff&style=for-the-badge" target="_blank"></a>
 
-In the beginning of this year, I created my own server on Discord called "GoodQuestion". The goal of the server is to be a platform for us Programming enthusiasts to learn more about coding from one another. If you share a similar passion, or need help with programming, please feel free to join us and we would be happy to help you out.
+In the beginning of 2021, I created a Discord server called "GoodQuestion". The goal of the server is to be a platform for us Programming enthusiasts to learn more about coding from one another. If you share a similar passion, or need help with programming, please feel free to join us and we would be happy to help you out.
