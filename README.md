@@ -21,7 +21,7 @@ The languages I speak include: English, German and French.
               </td>  
               <td width="25%" align="center">
             <span>Docker</span><br><br><br>
-            <img height="60px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png">
+            <img height="60px" src="https://img.icons8.com/fluency/344/docker.png">
           </td>
           <tr valign="mid">
           <td width="25%" align="center">
@@ -42,4 +42,4 @@ The languages I speak include: English, German and French.
 
 <a href="https://discord.gg/4YwafTCKGh"><img src="https://img.shields.io/discord/779105997792083969?label=GoodQuestion%20Discord&logo=Discord&logoColor=%23ffffff&style=for-the-badge" target="_blank"></a>
 
-In the beginning of 2021, I created a Discord server called "GoodQuestion". The goal of the server is to be a platform for us Programming enthusiasts to learn more about coding from one another. If you share a similar passion, or need help with programming, please feel free to join us and we would be happy to help you out.
+In the beginning of 2021, i created a Discord server called "GoodQuestion". The goal of the server is to be a platform for us Programming enthusiasts to learn more about coding from one another. If you share a similar passion, or need help with programming, please feel free to join us and we would be happy to help you out.
