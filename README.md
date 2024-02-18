@@ -23,6 +23,10 @@ The languages I speak include: English, German and French.
             <span>Docker</span><br><br><br>
             <img height="60px" src="https://img.icons8.com/fluency/344/docker.png">
           </td>
+           <td width="25%" align="center">
+            <span>Docker</span><br><br><br>
+            <img height="60px" src="https://img.icons8.com/golang">
+          </td
           <tr valign="mid">
           <td width="25%" align="center">
             <span>IntelliJ</span><br><br><br>
@@ -36,6 +40,10 @@ The languages I speak include: English, German and French.
                 <span>CLI</span><br><br><br>
                 <img height="45px" src="https://picocli.info/man/2.x/images/cli.jpg">
               </td>  
+            <td width="25%" align="center">
+                <span>CLI</span><br><br><br>
+                <img height="45px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+            </td>  
       </table> 
       <hr>  
 <h3>My Discord Server</h3>
