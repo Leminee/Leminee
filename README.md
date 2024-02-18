@@ -24,9 +24,9 @@ The languages I speak include: English, German and French.
             <img height="60px" src="https://img.icons8.com/fluency/344/docker.png">
           </td>
            <td width="25%" align="center">
-            <span>Docker</span><br><br><br>
-            <img height="60px" src="https://img.icons8.com/golang">
-          </td
+            <span>Golang</span><br><br><br>
+            <img height="60px" src="https://camo.githubusercontent.com/6b70384161973cabe99d9620487456e613c1f90273138d0d703f1fadcbb3fe41/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f676f2e737667">
+           </td>
           <tr valign="mid">
           <td width="25%" align="center">
             <span>IntelliJ</span><br><br><br>
@@ -41,7 +41,7 @@ The languages I speak include: English, German and French.
                 <img height="45px" src="https://picocli.info/man/2.x/images/cli.jpg">
               </td>  
             <td width="25%" align="center">
-                <span>CLI</span><br><br><br>
+                <span>VSCode</span><br><br><br>
                 <img height="45px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
             </td>  
       </table> 
