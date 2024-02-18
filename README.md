@@ -17,7 +17,7 @@ The languages I speak include: English, German and French.
             </td>  
               <td width="25%" align="center">
                 <span>Git</span><br><br><br>
-                <img height="48px" src="https://cdn.discordapp.com/attachments/819694809765380146/835671441012949052/git.png">
+                <img height="48px" src="https://img.icons8.com/git">
               </td>  
               <td width="25%" align="center">
             <span>Docker</span><br><br><br>
