@@ -15,6 +15,10 @@ The languages I speak include: English, German and French.
               <span>Java</span><br><br><br>
               <img height="60px" src="https://cdn.svgporn.com/logos/java.svg">
             </td>  
+            <td width="25%" align="center">
+            <span>Javascript</span><br><br><br>
+            <img height="60px" src="https://cdn.svgporn.com/logos/javascript.svg">
+           </td>
               <td width="25%" align="center">
                 <span>Git</span><br><br><br>
                 <img height="48px" src="https://img.icons8.com/git">
@@ -22,16 +26,16 @@ The languages I speak include: English, German and French.
               <td width="25%" align="center">
             <span>Docker</span><br><br><br>
             <img height="60px" src="https://img.icons8.com/fluency/344/docker.png">
-          </td>
-           <td width="25%" align="center">
-            <span>Golang</span><br><br><br>
-            <img height="60px" src="https://camo.githubusercontent.com/6b70384161973cabe99d9620487456e613c1f90273138d0d703f1fadcbb3fe41/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f676f2e737667">
-           </td>
+              </td>
           <tr valign="mid">
           <td width="25%" align="center">
             <span>IntelliJ</span><br><br><br>
             <img height="60px" src="https://cdn.svgporn.com/logos/intellij-idea.svg">
           </td> 
+           <td width="25%" align="center">
+                <span>VSCode</span><br><br><br>
+                <img height="45px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+            </td> 
           <td width="25%" align="center">
             <span>Github</span><br><br><br>
             <img height="48px" src="https://cdn.svgporn.com/logos/github-octocat.svg">
@@ -39,11 +43,7 @@ The languages I speak include: English, German and French.
             <td width="25%" align="center">
                 <span>CLI</span><br><br><br>
                 <img height="45px" src="https://picocli.info/man/2.x/images/cli.jpg">
-              </td>  
-            <td width="25%" align="center">
-                <span>VSCode</span><br><br><br>
-                <img height="45px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-            </td>  
+              </td> 
       </table> 
       <hr>  
 <h3>My Discord Server</h3>
